@@ -1,0 +1,19 @@
+{
+  "name": "eslint-plugin-no-non-svg-image",
+  "version": "1.0.7",
+  "description": "A custom ESLint plugin that disallows using next/image with non-SVG images.",
+  "main": "lib/index.js",
+  "repository": "https://github.com/moeatsy/eslint-plugin-no-non-svg-image",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-plugin"
+  ],
+  "author": "Aleksandr Ross",
+  "license": "MIT"
+}
